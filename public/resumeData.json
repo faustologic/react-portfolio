@@ -40,37 +40,37 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I'm a self-taught software developer who's passionate about technology and the logical of objects.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "University of Zulia",
+        "degree": "Masters in Mechanical Engineer",
+        "graduated": "January 2010",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Freelance",
+        "title": "WordPress Website designer and development",
+        "years": "April 2017 - Present",
+        "description": "Development and Design of responsive websites in WordPress"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "PPG Industries",
+        "title": "Project Engineer",
+        "years": "Aug 2018 - Present",
+        "description": "Full time job as a Project Enginner on Construction Design"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "75%"
       },
       {
         "name": "Git",
@@ -78,7 +78,7 @@
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "25%"
       },
       {
         "name": "HTML5",
@@ -86,7 +86,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
