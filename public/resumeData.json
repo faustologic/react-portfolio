@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
+    "name": "Fausto Lo Giudice",
+    "occupation": "ReactJS Developer && FrontEnd Developer",
+    "description": "FrontEnd Developer React Developer, Musician, Mechanical Engineer",
     "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "bio": "My name is Fausto, I'm a FrontEnd ReactJS Developer. Currently I'm working at PPG Industries, as a Project Engineer ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "faustologic@gmail.com",
+    "phone": "+507 6211 0889",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Belisario Porras Street",
+      "city": "Panama",
+      "state": "PA",
+      "zip": "07899"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/faustologic",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/faustologic/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/faustologic/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/faustologic",
         "className": "fa fa-github"
       }
     ]
