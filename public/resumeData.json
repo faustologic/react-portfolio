@@ -66,27 +66,31 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "CSS",
-        "level": "75%"
-      },
-      {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "25%"
+        "level": "65%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "45%"
+      },
+      {
+        "name": "Express",
+        "level": "45%"
       },
       {
         "name": "MongoDB",
-        "level": "50%"
+        "level": "60%"
       }
     ]
   },
@@ -105,10 +109,10 @@
         "url": "https://www.alarmas.io"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Memories App",
+        "category": "Memories App build with MERN Stack",
+        "image": "memories-app.png",
+        "url": "https://memories-fausto-app.netlify.app/"
       },
       {
         "title": "Airbnb Clone",
