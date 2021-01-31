@@ -26,7 +26,7 @@ class Footer extends Component {
 
             <ul className="copyright">
               <li>
-                &copy; All credits and Copyright 2020 for Fausto Lo Giudice
+                &copy; All credits and Copyright 2021 for Fausto Lo Giudice
               </li>
               <li>
                 Design by{" "}
