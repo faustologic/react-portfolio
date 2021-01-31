@@ -1,15 +1,15 @@
 {
   "main": {
-    "name": "Fausto Lo Giudice",
-    "occupation": "ReactJS Developer && FrontEnd Developer" ,
-    "description": "FrontEnd React Developer, Musician, Mechanical Engineer",
+    "name": "Fausto",
+    "occupation": "FrontEnd MERN Stack Developer Jr.",
+    "description": "Developer ReactJs Lover, Musician & Mechanical Engineer",
     "image": "faustoIMG.jpeg",
-    "bio": "My name is Fausto, I'm a FrontEnd ReactJS Developer. Currently I'm working at PPG Industries, as a Project Engineer ",
+    "bio": "My name is Fausto Lo Giudice, I'm a FrontEnd MERN Stack Developer Jr. Currently I'm working at PPG Industries, as a Project Engineer, i'm music lover and gamer also very interested in building apps and tech's data.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "faustologic@gmail.com",
     "phone": "+507 6211 0889",
     "address": {
-      "street": "Belisario Porras Street",
+      "street": "Blvd Saul J. Esses",
       "city": "Panama",
       "state": "PA",
       "zip": "07899"
@@ -47,6 +47,18 @@
         "degree": "Masters in Mechanical Engineer",
         "graduated": "January 2010",
         "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Code With Mosh",
+        "degree": "Mastering React",
+        "graduated": "December 2020",
+        "description": "Fundamentals of React with more than 10hrs of knowledgement and process"
+      },
+      {
+        "school": "LinkedIn Courses",
+        "degree": "Full Stack Develoment",
+        "graduated": "August 2020",
+        "description": "Fundamentals of Full Stack and FrontEnd Development"
       }
     ],
     "work": [
@@ -60,7 +72,7 @@
         "company": "PPG Industries",
         "title": "Project Engineer",
         "years": "Aug 2018 - Present",
-        "description": "Full time job as a Project Enginner on Construction Design"
+        "description": "Full time job as a Project Enginner on Construction supervision"
       }
     ],
     "skills": [
@@ -99,44 +111,42 @@
       {
         "title": "Grupo Qualitas Website",
         "category": "Website One-page built with WordPress ",
-        "image": "whatsapp-mern.jpeg",
+        "image": "gqualitas.png",
         "url": "https://www.gqualitas.com"
       },
       {
         "title": "Alarmas.io Website",
         "category": "Security Company website one-page built in WordPress",
-        "image": "tiktok-mern.jpeg",
+        "image": "alarmas-io.png",
         "url": "https://www.alarmas.io"
+      },
+      {
+        "title": "Incommms Website",
+        "category": "Penitentiary and department of correction website",
+        "image": "incommms.png",
+        "url": "https://www.incommms.com"
       },
       {
         "title": "Memories App",
         "category": "Memories App build with MERN Stack",
         "image": "memories-app.png",
         "url": "https://memories-fausto-app.netlify.app/"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "If i need something for the web, I will call Fausto, c'mon!!! He's the one!",
+        "user": "Jennyfer Luzardo - Degusta"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Excellent professional in the area, skills & communication developing my product was awesome!",
+        "user": "Carlos Ramirez - Grupo Qualitas"
+      },
+      {
+        "text": "I've have been working with Fausto for more than 4 years, he's a complete professional and tech enthusiastac, maybe you need to talk to him and know him better... You won't be dissapointed!",
+        "user": "Enrique Piña - TetraPak"
       }
     ]
   }

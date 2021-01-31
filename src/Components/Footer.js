@@ -21,12 +21,12 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul>
-              <li>Modified with love by the Clever Programmer team</li>
+              <li>"Batte. Forte. Sempre"</li>
             </ul>
 
             <ul className="copyright">
               <li>
-                &copy; All credit goes to Tim Baker - Copyright 2017 Tim Baker
+                &copy; All credits and Copyright 2020 for Fausto Lo Giudice
               </li>
               <li>
                 Design by{" "}
