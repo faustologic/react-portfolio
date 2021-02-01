@@ -108,6 +108,7 @@ const Contact = ({ data }) => {
           <div className="widget widget_contact">
             <h4>Address and Phone</h4>
             <p className="address">
+              {data?.name} <br />
               {data?.address.street} <br />
               {data?.address.city}, {data?.address.state} {data?.address.zip}
               <br />
